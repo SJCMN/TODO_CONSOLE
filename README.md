@@ -9,4 +9,5 @@ To do list based on Udemy Web Developer Boot Camp 2021
 <li>Add list item.</li>
 <li>Display list.</li>
 <li>Remove list item.</li>
+<li>Quit app.</li>
 </ul>
