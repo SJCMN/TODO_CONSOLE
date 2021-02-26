@@ -3,8 +3,8 @@ Console based to do list.
 
 To do list based on Udemy Web Developer Boot Camp 2021
 
-Console display.
-Prompt used to enter commands.
-Add list item.
-Display list.
-Remove list item.
+<p>Console display.</p>
+<p>Prompt used to enter commands.</p>
+<p>Add list item.</p>
+<p>Display list.</p>
+<p>Remove list item.</p>
