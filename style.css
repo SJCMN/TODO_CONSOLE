@@ -1,0 +1,23 @@
+p, ul, li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+li::marker {
+    font-family: 'DotGothic16', sans-serif;
+}
+
+strong {
+
+    font-weight: 500;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-family: 'DotGothic16', sans-serif;
+}
+
+code {
+    color: rgba(239, 247, 247, 0.808);
+    background-color: rgb(48, 47, 47);
+}
