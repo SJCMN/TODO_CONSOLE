@@ -7,7 +7,9 @@ To do list based on Udemy Web Developer Boot Camp 2021
 <ul>
 <li>Prompt used to enter commands.</li>
 <li>Add list item.</li>
+<li>Delete list item.</li>
 <li>Display list.</li>
-<li>Remove list item.</li>
+<li>Sort list items.</li>
+<li>Undo list item.</li>
 <li>Quit app.</li>
 </ul>
